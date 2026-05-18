@@ -11,3 +11,8 @@ public:
     {
         saklarno[i] = value;
     }
+    string getsaklarno(int i)
+    {
+        return saklarno[i];
+    }
+};
